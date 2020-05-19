@@ -7,7 +7,6 @@ Acá podrás aportar (en serio) a mejorar ElAntro, ya sea:
 * Reportando problemas técnicos del sitio.
 * Sugiriendo mejoras técnicas al sitio.
 
-
 ## Normas de Convivencia
 Lo se. Vienes de ElAntro.  Pero esto es GitHub. Acá se espera que te comportes decentemente, con respeto a todas las partes que participan en los Issues.
 
@@ -43,13 +42,13 @@ Trata un solo tema por issue. No hagas un único reporte y metas varias sugerenc
 ## ¿Todo reporte será implementado?
 No.
 
-Técnicamnete si el problema o error es serio, claro que si. Vamos a tratar con el y lo resolveremos.
+Si el problema o error que reportas es serio, claro que si. Vamos a tratar con el y lo resolveremos.
 
 Pero no toda sugerencia será implementada.
 
 Algunas ideas técnicamente requerirán mucho trabajo, o un gasto de por medio (existiendo addons ya hechos), o una mantención para la que no hay tiempo, o recursos de servidor que no se pueden sostener en el tiempo en un sitio que no genera números azules. De nuevo: **un hobbie**.
 
-Por otro lado, si algo que sugieras tiene buena llegada y se decide implementar, eso podría tomar un tiempo. Nadie trabaja a tiempo completo en ELAntro hoy. Por lo que tendrás que tener paciencia.
+Por otro lado, si algo que sugieras tiene buena llegada y se decide implementar, eso podría tomar un tiempo. Nadie trabaja a tiempo completo en ElAntro hoy. Por lo que tendrás que tener paciencia.
 
 Por favor, a tener en consideración cuando participes en el CTM.
 
