@@ -14,7 +14,7 @@ Algunas cosas que no puedes hacer en nuestros Issues:
 
 * No garabatos o lenguaje vulgar/sexual.
 * No trolleo ni comportamiento despectivo.
-* No hueveo en general.
+* No hueveo en general, ni mensajes inútiles o cero aporte.
 
 Básicamente no se tolerará ninguna conducta no apropiada para un entorno profesional tradicional.
 
@@ -26,10 +26,11 @@ Y si vamos _donar_ parte de nuestro tiempo para mejorar algo que no nos devuelve
 
 ¿No es mucho pedir, cierto?.
 
-## ¿Cómo aporto?
+## ¿Cómo aporto? ¿Cómo participo?
 Abre un nuevo [Issue](https://github.com/antronio/elantro-ctm/issues). O participa, ordenada y constructivamente, de los existentes.
 
-Eso si, por favor [revisa primero](https://github.com/antronio/elantro-ctm/issues?q=is%3Aissue) si alguien más no ha tratado antes el tema que estás tratando de reportar o sugerir (usa el buscador dentro de los issues). Issues duplicadas serán cerradas (y quizás enlazando a la issue donde ya se habló del tema, dependiendo del tiempo del encargado que responda).
+## Reglas básicas
+[Revisa primero](https://github.com/antronio/elantro-ctm/issues?q=is%3Aissue) si alguien más no ha tratado antes el tema que estás tratando de reportar o sugerir (usa el buscador dentro de los issues). Issues duplicadas serán cerradas (y quizás enlazando a la issue donde ya se habló del tema, dependiendo del tiempo del encargado que responda).
 
 Se claro en tu reporte (título incluido).
 
@@ -38,6 +39,14 @@ Si es un error, incluye un paso a paso de como reproducir el error, por favor. P
 Si es una mejora la que propones, ve al punto e indica por qué crees que ayudaría al resto de la comunidad, no solo a ti.
 
 Trata un solo tema por issue. No hagas un único reporte y metas varias sugerencias en el mismo. Tu issue será cerrado si lo haces.
+
+¿Te gustó un issue/comentario de otra persona?. Usa las reacciones de GitHub. Un dedo arriba, por ejemplo.
+
+¿No te gustó el issue/comentario de otra persona?. De nuevo: reacciones de GitHub. Dedo abajo, por ejemplo.
+
+Solo responde un issue cuando vayas a entregar información relevante para el tema, por favor. Mientras menos "ruido" dentro de los issues, mejor. Abstente de responder un issue si no vas a agregar información relevante para la conversación.
+
+Agradecemos desde ya vuestra comprensión.
 
 ## ¿Todo reporte será implementado?
 No.
