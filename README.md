@@ -27,7 +27,7 @@ Y si vamos _donar_ parte de nuestro tiempo para mejorar algo que no nos devuelve
 ¿No es mucho pedir, cierto?.
 
 ## ¿Cómo aporto?
-Abre un nuevo [Issue](https://github.com/antronio/elantro-ctm/issues).
+Abre un nuevo [Issue](https://github.com/antronio/elantro-ctm/issues). O participa, ordenada y constructivamente, de los existentes.
 
 Eso si, por favor [revisa primero](https://github.com/antronio/elantro-ctm/issues?q=is%3Aissue) si alguien más no ha tratado antes el tema que estás tratando de reportar o sugerir (usa el buscador dentro de los issues). Issues duplicadas serán cerradas (y quizás enlazando a la issue donde ya se habló del tema, dependiendo del tiempo del encargado que responda).
 
@@ -54,4 +54,4 @@ Por favor, a tener en consideración cuando participes en el CTM.
 
 ---
 
-Gracias por tu tiempo y ayuda, Antroniano ;)
+Gracias por tu tiempo y ayuda, Antronian@ ;)
