@@ -7,7 +7,7 @@ Acá podrás aportar (en serio) a mejorar ElAntro, ya sea:
 * Reportando problemas técnicos del sitio.
 * Sugiriendo mejoras técnicas al sitio.
 
-## Normas de Convivencia
+## Normas de Comportamiento
 Lo se. Vienes de ElAntro.  Pero esto es GitHub. Acá se espera que te comportes decentemente, con respeto a todas las partes que participan en los Issues.
 
 Algunas cosas que no puedes hacer en nuestros Issues:
@@ -30,6 +30,8 @@ Y si vamos _donar_ parte de nuestro tiempo para mejorar algo que no nos devuelve
 Abre un nuevo [Issue](https://github.com/antronio/elantro-ctm/issues). O participa, ordenada y constructivamente, de los existentes.
 
 ## Reglas básicas
+Sigue las normas de comportamiento antes descritas.
+
 [Revisa primero](https://github.com/antronio/elantro-ctm/issues?q=is%3Aissue) si alguien más no ha tratado antes el tema que estás tratando de reportar o sugerir (usa el buscador dentro de los issues). Issues duplicadas serán cerradas (y quizás enlazando a la issue donde ya se habló del tema, dependiendo del tiempo del encargado que responda).
 
 Se claro en tu reporte (título incluido).
@@ -46,7 +48,11 @@ Trata un solo tema por issue. No hagas un único reporte y metas varias sugerenc
 
 ¿No te gustó el issue/comentario de otra persona?. De nuevo: reacciones de GitHub. Dedo abajo, por ejemplo.
 
-Solo responde un issue cuando vayas a entregar información relevante para el tema, por favor. Mientras menos "ruido" dentro de los issues, mejor. Abstente de responder un issue si no vas a agregar información relevante para la conversación.
+Solo responde un issue cuando vayas a entregar información relevante para el tema, por favor. Mientras menos "ruido" dentro de los issues, mejor. Abstente de responder un issue si no vas a agregar información relevante para la conversación, info. a favor o en contra, pero relevante.
+
+No seguir estas reglas básicas puede hacer que cerremos tu reporte inmediatamente.
+
+Pasar a llevar las reglas de comportamiento hará que te excluyamos del repositorio completo y sus issues.
 
 Agradecemos desde ya vuestra comprensión.
 
