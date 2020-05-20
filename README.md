@@ -52,7 +52,7 @@ Solo responde un issue cuando vayas a entregar información relevante para el te
 
 No seguir estas reglas básicas puede hacer que cerremos tu reporte inmediatamente.
 
-Pasar a llevar las reglas de comportamiento hará que te excluyamos del repositorio completo y sus issues.
+Pasar a llevar las reglas de comportamiento hará que te excluyamos del repositorio completo.
 
 Agradecemos desde ya vuestra comprensión.
 
