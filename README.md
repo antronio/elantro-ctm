@@ -38,6 +38,8 @@ Si es un error, incluye un paso a paso de como reproducir el error, por favor. P
 
 Si es una mejora la que propones, ve al punto e indica por qué crees que ayudaría al resto de la comunidad, no solo a ti.
 
+Pedir que todo vuelva a como estaba, 100% igual, no es una mejora. No se considerarán issues que ronden una actitud de "vuelvan a dejarlo como estaba". Definitivamente no se volverá a XF1 ni se intentará modificar masivamente XF2 para que se vuelva un XF1. Eso está fuera de discusión.
+
 Trata un solo tema por issue. No hagas un único reporte y metas varias sugerencias en el mismo. Tu issue será cerrado si lo haces.
 
 ¿Te gustó un issue/comentario de otra persona?. Usa las reacciones de GitHub. Un dedo arriba, por ejemplo.
